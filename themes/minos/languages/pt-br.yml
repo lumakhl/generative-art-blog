@@ -1,0 +1,29 @@
+name: 'Portugês'
+common:
+  archives: 'Arquivo'
+  category: 'Categoria'
+  tag: 'Tag'
+  categories: 'Categorias'
+  tags: 'Tags'
+nav:
+  next: 'Próximo'
+  prev: 'Anterior'
+  search: 'Procurar'
+  toc: 'Conteúdo'
+article:
+  read_more: 'Leia mais'
+  read: 'de leitura'
+  about: 'Aproximadamente'
+  words: 'palavras'
+  comments: 'Comentários'
+  contents: 'Conteúdo'
+search:
+  hint: 'Escreva algo...'
+insight:
+  hint: 'Digite algo...'
+  posts: 'Publicações'
+  pages: 'Páginas'
+  categories: 'Categorias'
+  tags: 'Tags'
+  untitled: '(Sem título)'
+powered_by: 'Powered by'
