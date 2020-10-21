@@ -18,6 +18,16 @@ a.tag.article-tag {
         width: 800px;
     }
 
+    .image-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .image {
+        flex: 1;
+        margin: 10px 0 0 2%;
+    }
+
     .navbar.is-transparent .navbar-dropdown a.navbar-item:hover {
         color: #3273dc;
     }
