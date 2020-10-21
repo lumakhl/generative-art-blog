@@ -14,15 +14,15 @@ open_graph:
 # logo:
 #   text: <logo string>
 logo:
-  text: Arte Generativa
+  text: Computação+Arte
 
 article:
   # Show word count and estimated reading time.
-  readtime: true
+  readtime: false
   # Code highlight theme, please see https://highlightjs.org/static/demo/
   highlight: atom-one-light
   # Date format: relative | full | relative_full | full_relative
-  date_format: relative
+  date_format:
 
 # Navigation bar menu links.
 menu:
@@ -70,3 +70,4 @@ navbar_links:
 # Links at the bottom of the page.
 footer_links:
   GitHub: https://github.com/lumakhl/generative-art
+  Instagram: https://www.instagram.com/daily.crying.arts/
