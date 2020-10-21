@@ -24,12 +24,19 @@ a.tag.article-tag {
     }
 
     .image {
-        flex: 1;
-        margin: 10px 0 0 2%;
+        flex: 0 45%;
+        margin: 1% 0 0 1%;
     }
 
     .navbar.is-transparent .navbar-dropdown a.navbar-item:hover {
         color: #3273dc;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .image {
+        flex: 0 45%;
+        margin-bottom: 2%; 
     }
 }
 
